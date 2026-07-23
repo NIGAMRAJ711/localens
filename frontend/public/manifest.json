@@ -1,0 +1,11 @@
+{
+  "name": "LocalLens",
+  "short_name": "LocalLens",
+  "description": "Discover local guides and hidden gems",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": []
+}
